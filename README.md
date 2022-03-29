@@ -1,1 +1,1 @@
-![maze!](3514805E-C60E-4159-B91E-DDAA32C24F2D.jpeg)
+![maze!](MAZE.gif)
